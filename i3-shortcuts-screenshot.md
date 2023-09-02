@@ -40,6 +40,6 @@ bindsym Ctrl+Shift+Print exec --no-startup-id maim --select | xclip -selection c
 
 > `super` key is the _windows_ key
 
-Original [here](https://gist.github.com/dianjuar/ee774561a8bc02b077989bc17424a19f)
+Original [here](https://gist.github.com/dianjuar/ee774561a8bc02b077989bc17424a19f).
 
 [@dianjuar](https://github.com/dianjuar)
