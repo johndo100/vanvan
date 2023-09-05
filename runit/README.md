@@ -11,3 +11,7 @@ Then you can enable it by create a symlink to the service directory in `/var/ser
 `# ln -s /etc/sv/<service> /var/service/`
 
 This will automatically start the service.
+
+Set execute for `run` if I forgot ^^.
+
+`# chmod +x /etc/sv/<service>`
