@@ -1,5 +1,3 @@
 #!/bin/sh
 exec 2>&1
-
-[ -r ./conf ] && . ./conf
-exec /usr/local/bin/godns -c=/usr/local/etc/godns/config.yaml
+exec godns -c=/path/to/your/godns-dir/config.json
